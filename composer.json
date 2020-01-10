@@ -1,0 +1,12 @@
+{
+    "name": "ren/phpoffice-phpword-template",
+    "authors": [
+        {
+            "name": "ren",
+            "email": "rxm@wiki361.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^0.17.0"
+    }
+}
